@@ -2,29 +2,71 @@
 <html>
 <head>
   <title>araslmao's site</title>
-</head>
-<body>
-
-<html>
-<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/7.css">
   <style>
     body {
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       min-height: 100vh;
       margin: 0;
+      background-image: url('/gadas.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
     }
     .window {
+      width: 90%;
       max-width: 300px;
+      margin: 1rem;
     }
     .window-body {
       text-align: center;
+      padding: 1rem;
+    }
+    .window-body p {
+      font-size: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .window-body button {
+      display: block;
+      width: 100%;
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    .title-bar-text {
+      font-size: 0.9rem;
+    }
+    @media (max-width: 600px) {
+      .window {
+        width: 95%;
+        margin: 0.5rem;
+      }
+      .window-body {
+        padding: 0.5rem;
+      }
+      .window-body p {
+        font-size: 0.9rem;
+      }
+      .window-body button {
+        font-size: 0.9rem;
+        padding: 0.4rem;
+      }
+      .title-bar-text {
+        font-size: 0.8rem;
+      }
+      .title-bar-controls button {
+        width: 12px;
+        height: 12px;
+      }
     }
   </style>
 </head>
 <body>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="da90a7f1-cc7f-4dc9-a30a-b0b3b88f074f"></script>
   <div class="window active">
     <div class="title-bar">
       <div class="title-bar-text">araslmao's website.scr</div>
@@ -37,12 +79,24 @@
     <div class="window-body has-space">
       <p>Interesting guy, also this site is mostly used for projects.</p>
       <a href="/register.html"><button>registrar (joke site by me)</button></a>
+      <a href="/cs2.html"><button>should you play cs2?</button></a>
       <a href="https://github.com/araslmao"><button>github</button></a>
+      <a href="https://github.com/araslmao/FlashbangScript/releases/tag/script"><button>flashbang app</button></a>
+    </div>
+<div class="window active">
+  <div class="title-bar">
+    <div class="title-bar-text">Donate</div>
+    <div class="title-bar-controls">
+      <button aria-label="Minimize"></button>
+      <button aria-label="Maximize"></button>
+      <button aria-label="Close"></button>
     </div>
   </div>
-</body>
- <style>
-body {
-  background-image: url('/gadas.jpg');
-}
-</style> 
+  <div class="window-body has-space">
+  
+<div>
+
+    <a href="https://nowpayments.io/donation?api_key=c8772770-dbec-49a9-a43f-156757ba95b4" target="_blank" rel="noreferrer noopener">
+        <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments" style="width: 150px; height: auto;">
+    </a>
+</div>
