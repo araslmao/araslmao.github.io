@@ -1,0 +1,136 @@
+nigger
+nigga
+faggot
+retard
+bitch
+asshole
+cunt
+chink
+jew
+terrorist
+troon
+tranny
+fatass
+ugly
+uglyass
+fatty
+n1gg3r 
+n¡gg@r 
+n@g@ 
+n1gg@
+ n¡gg4 
+n@g4 
+f@g 
+f4gg0t 
+f@gg3t 
+r3t@rd 
+r3t4rd 
+r@tard 
+b1tch 
+b¡tch 
+b@tch 
+@sshol3 
+a$$h0le 
+@ssh0l3 
+c@n7
+ c**t 
+ch¡nk
+ ch1nk
+ c@nk
+ j3w
+ j3vv
+ j@w
+ t3rr0r1st 
+t3rr@r1st 
+t@r0r1st
+ tr00n 
+tr@0n 
+tr0@n 
+tr4nn¥
+ tr@nny 
+tr4n@ 
+f@t@ss
+ f4t@ss
+ f@7@ss 
+ug1y 
+ugl¥ 
+u@ly 
+ug1y@ss
+ ugl¥@ss 
+u@ly@ss
+ f@tty
+ f4tty
+ f@t¥
+
+	"anal":        true,
+	"anus":        true,
+	"arse":        true,
+	"ass":         true,
+	"b1tch":       true,
+	"ballsack":    true,
+	"bastard":     true,
+	"bitch":       true,
+	"biatch":      true,
+	"blowjob":     true,
+	"bollock":     true,
+	"bollok":      true,
+	"boner":       true,
+	"boob":        true,
+	"boobs":       true,
+	"buttplug":    true,
+	"clitoris":    true,
+	"cock":        true,
+	"cum":         true,
+	"cunt":        true,
+	"dick":        true,
+	"dildo":       true,
+	"dyke":        true,
+	"erection":    true,
+	"fag":         true,
+	"faggot":      true,
+	"feck":        true,
+	"fellate":     true,
+	"fellatio":    true,
+	"felching":    true,
+	"fuck":        true,
+	"fucks":       true,
+	"fudgepacker": true,
+	"genitals":    true,
+	"hell":        true,
+	"jerk":        true,
+	"jizz":        true,
+	"knobend":     true,
+	"labia":       true,
+	"masturbate":  true,
+	"muff":        true,
+	"nigger":      true,
+	"nigga":       true,
+	"penis":       true,
+	"piss":        true,
+	"poop":        true,
+	"pube":        true,
+	"pussy":       true,
+	"scrotum":     true,
+	"sex":         true,
+	"shit":        true,
+	"sh1t":        true,
+	"slut":        true,
+	"smegma":      true,
+	"spunk":       true,
+	"tit":         true,
+	"tranny":      true,
+	"trannies":    true,
+	"tosser":      true,
+	"turd":        true,
+	"twat":        true,
+	"vagina":      true,
+	"wank":        true,
+	"whore":       true,
+	"tits":        true,
+	"titty":       true,
+	"asshole":     true,
+	"fvck":        true,
+	"asshat":      true,
+	"pu55y":       true,
+	"pen1s":       true,
+}
